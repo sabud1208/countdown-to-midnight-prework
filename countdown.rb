@@ -6,4 +6,3 @@ def countdown(x)
     break if x < 12
   end
 end
-countdown(10)
