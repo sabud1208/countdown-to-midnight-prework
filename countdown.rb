@@ -1,8 +1,8 @@
 def countdown(x)
-  x= 
+  x= 0
   loop do
     puts "#{x} SECOND(S)"
-    x -= 1
+    x = 1
     break if x > 12
   end
 end
