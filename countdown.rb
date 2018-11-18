@@ -1,5 +1,5 @@
 def countdown(x)
-  x=
+  x= 
   loop do
     puts "#{x} SECOND(S)"
     x -= 1
